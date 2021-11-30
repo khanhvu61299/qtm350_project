@@ -1,0 +1,31 @@
+,Name,Similarity,Celebrity_Recognized,Celebrity_Confidence,Makeup,Weight_Change_in_lbs
+0,Christian-Bale-Base.jpeg,100.0,Christian Bale,99.54470825195312,No,0
+1,Christian-Bale-Vice1.jpg,0.0,Unrecognizable,0.0,No,40
+2,Christian-Bale-Vice2.jpeg,0.0,Unrecognizable,0.0,No,40
+3,Christian-Bale-Vice3.jpeg,0.0,Unrecognizable,0.0,No,40
+4,Christian-Bale-machinist3.jpeg,99.81509399414062,Christian Bale,94.87421417236328,No,65
+5,christian-bale-american1.jpeg,99.80919647216797,Felix Kramer,81.72571563720703,No,43
+6,christian-bale-american2.jpg,99.98043823242188,Christian Bale,88.99152374267578,No,43
+7,christian-bale-american3.jpeg,99.96953582763672,Felix Kramer,76.3939208984375,No,43
+8,christian-bale-machinist1.png,97.41047668457031,Christian Bale,99.65769958496094,No,65
+9,christian-bale-machinist2.jpeg,99.5208969116211,Christian Bale,99.5952377319336,No,65
+10,Jared-Leto-Base.jpeg,100.0,Jared Leto,99.24400329589844,No,0
+11,Jared-Leto-Chapter1.jpeg,0.0,Jared Leto,92.9877700805664,No,70
+12,Jared-Leto-Chapter2.jpeg,0.0,Jared Leto,96.52467346191406,No,70
+13,Jared-Leto-Chapter3.jpeg,90.49385070800781,Jared Leto,91.76941680908203,No,70
+14,Jared-Leto-Dallas1.jpeg,0.0,Unrecognizable,0.0,Yes,30
+15,Jared-Leto-Dallas2.jpeg,0.0,Unrecognizable,0.0,Yes,30
+16,Jared-Leto-Dallas3.jpeg,0.0,Unrecognizable,0.0,Yes,30
+17,Jared-Leto-joker1.jpeg,0.0,Unrecognizable,0.0,Yes,0
+18,Jared-Leto-joker2.png,0.0,Unrecognizable,0.0,Yes,0
+19,Jared-Leto-joker3.jpeg,0.0,Unrecognizable,0.0,Yes,0
+20,Charlize-Theron-Base.jpeg,100.0,Charlize Theron,96.8631362915039,No,0
+21,Charlize-Theron-Madmax1.jpeg,0.0,Unrecognizable,0.0,Yes,20
+22,Charlize-Theron-Madmax2.jpeg,97.27245330810547,Unrecognizable,0.0,Yes,20
+23,Charlize-Theron-Madmax3.jpeg,94.86990356445312,Unrecognizable,0.0,Yes,20
+24,Charlize-Theron-Monster1.jpeg,0.0,Unrecognizable,0.0,Yes,30
+25,Charlize-Theron-Monster2.jpeg,0.0,Unrecognizable,0.0,Yes,30
+26,Charlize-Theron-Monster3.jpeg,0.0,Unrecognizable,0.0,Yes,30
+27,Charlize-Theron-Tully1.jpg,99.98347473144531,Charlize Theron,82.43363189697266,No,50
+28,Charlize-Theron-Tully2.jpeg,99.93269348144531,Unrecognizable,0.0,No,50
+29,Charlize-Theron-Tully3.jpeg,98.61512756347656,Charlize Theron,97.65516662597656,No,50
